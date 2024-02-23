@@ -72,7 +72,7 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
-int pot;
+'''int pot;
 int led=7;
 void setup()
 {
@@ -97,6 +97,7 @@ else
   delay(500);
   }
 }
+'''
 
 
 Figure : SERIAL MONITOR and GRAPH
