@@ -100,6 +100,8 @@ else
 
 
 Figure : SERIAL MONITOR and GRAPH
+
+
 ![image](https://github.com/SanthoshThiru/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/148958618/1489afd1-74b6-438a-9c4f-a6c3e7720a8a)
 
 
